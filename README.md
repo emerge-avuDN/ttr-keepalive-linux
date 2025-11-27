@@ -2,4 +2,6 @@ Sends a random keypress in a time period of 1-2 minutes (inclusive) to keep your
 
 # Usage
 Simply run the script in Python. 
-```python keepalive.py``` 
+```
+python keepalive.py
+``` 
